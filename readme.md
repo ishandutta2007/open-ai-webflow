@@ -64,8 +64,10 @@ The digital landscape is evolving. AI is no longer a novelty but a fundamental p
 
 OpenFlow is a community-driven project. We welcome contributions of all kinds, from bug reports and feature requests to code contributions and documentation improvements.
 
-- **Join our [Discord](https://discord.gg/your-server-link)** to connect with the community and get help.
-- **Check out our [Contribution Guide](./CONTRIBUTING.md)** to learn how you can get involved.
+-   **Check out our [Contribution Guide](./CONTRIBUTING.md)** to learn how you can get involved.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+
 
 ## License
 

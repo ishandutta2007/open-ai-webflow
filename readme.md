@@ -69,6 +69,11 @@ OpenFlow is a community-driven project. We welcome contributions of all kinds, f
 -   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
 
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-workflows&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-workflows&type=date&legend=top-left)
+
+
 ## License
 
 OpenFlow is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).

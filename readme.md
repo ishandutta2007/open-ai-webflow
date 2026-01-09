@@ -64,6 +64,10 @@ Our vision for OpenFlow includes:
 -   **🌐 Multi-Language Support:** Making OpenFlow accessible to a global audience of **no-code developers**.
 -   **🏢 Enterprise-Grade Features:** Advanced security, user management, and on-premise deployment options for large organizations.
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-ai-webflow&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-ai-webflow&type=date&legend=top-left)
+
 ## 👋 Contributing
 
 OpenFlow thrives on community collaboration! We welcome contributions of all kinds, from bug reports and feature requests to code contributions and documentation improvements.

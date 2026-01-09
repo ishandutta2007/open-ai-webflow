@@ -60,6 +60,10 @@ The digital landscape is evolving. AI is no longer a novelty but a fundamental p
 - **[ ] Multi-Language Support:** Making OpenFlow accessible to a global audience.
 - **[ ] Enterprise-Grade Features:** Advanced security, user management, and on-premise deployment options.
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-ai-webflow&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-ai-webflow&type=date&legend=top-left)
+
 ## Contributing
 
 OpenFlow is a community-driven project. We welcome contributions of all kinds, from bug reports and feature requests to code contributions and documentation improvements.
@@ -68,10 +72,6 @@ OpenFlow is a community-driven project. We welcome contributions of all kinds, f
 -   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
 -   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
 
-
-### ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-workflows&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-workflows&type=date&legend=top-left)
 
 
 ## License
